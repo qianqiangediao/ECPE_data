@@ -1,5 +1,5 @@
 
-We annotate experiencer information for benchmark datasets (Xia and Ding, 2019). The updated datasets named as “all_data_pair(experiencers)”, and there are json versions and txt versions. The JSON format is structural representation, in which contains the experiencers and the retrieved common knowledge (Xreact and Xwant) from ATMOIC corresponding to each clause. Readers can directly implement expresser-specific and knowledge-specific emotion cause extraction based on the corpus.
+We annotate experiencer information for benchmark datasets (https://github.com/NUSTM/ECPE). The updated datasets named as “all_data_pair(experiencers)”, and there are json versions and txt versions. The JSON format is structural representation, in which contains the experiencers and the retrieved common knowledge (Xreact and Xwant) from ATMOIC corresponding to each clause. Readers can directly implement expresser-specific and knowledge-specific emotion cause extraction based on the corpus.
 
 **File introduction**
 
