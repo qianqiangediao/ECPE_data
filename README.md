@@ -1,7 +1,7 @@
 
-# We annotate experiencer information for benchmark datasets (Xia and Ding, 2019). The updated datasets named as all_data_pair(experiencers), and there are json versions and txt versions. The JSON format is structural representation and contains the experiencers and the retrieved common knowledge (Xreact and Xwant) from ATMOIC corresponding to each clause. Readers can directly implement expresser-specific and knowledge-specific emotion cause extraction based on the corpus characteristics of experiencer are helpful to the relevant.
+We annotate experiencer information for benchmark datasets (Xia and Ding, 2019). The updated datasets named as all_data_pair(experiencers), and there are json versions and txt versions. The JSON format is structural representation and contains the experiencers and the retrieved common knowledge (Xreact and Xwant) from ATMOIC corresponding to each clause. Readers can directly implement expresser-specific and knowledge-specific emotion cause extraction based on the corpus characteristics of experiencer are helpful to the relevant.
 
-# file introduction
+**file introduction**
 
 1. "coreference_data"--This catalog provides the results of anaphora resolution using the Stanford University anaphora Resolution Tool (https://stanfordnlp.github.io/CoreNLP/)
 
